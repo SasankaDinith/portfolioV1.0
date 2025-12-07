@@ -1,12 +1,14 @@
-# Portfolio Website
+# Portfolio Website V1.0
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in a clean and professional design.
+
+ ![image url](https://github.com/SasankaDinith/portfolioV1.0/blob/f83e9f9486670c3a0a113cbb92c40b5d4139df9e/images/portfolio_repository.png)
 
 ## 🌐 Live Demo
 [Click here to view the portfolio](https://sasankadinith.github.io/portfolioV1.0/)
 
 ## 📖 Overview
-This portfolio website is designed to highlight my expertise in cloud infrastructure, DevOps, Linux systems, and automation. It includes sections such as About Me, Skills, Projects, and Contact.
+This portfolio website is designed to highlight my expertise in cloud infrastructure, DevOps, Linux systems, and automation. It includes sections such as About Me, Resume, Projects, Blogs and Contact sections.
 
 ## ✨ Features
 - Responsive and modern design
@@ -35,6 +37,7 @@ This portfolio website is designed to highlight my expertise in cloud infrastruc
 Feel free to reach out for collaboration or inquiries:
 - **Email:** sasankaranawaka0@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/sasankad101](https://www.linkedin.com/in/sasankad101)
+
 
 
 
