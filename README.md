@@ -36,7 +36,6 @@ Feel free to reach out for collaboration or inquiries:
 - **Email:** sasankaranawaka0@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/sasankad101](https://www.linkedin.com/in/sasankad101)
 
----
-Thank you for visiting my portfolio!
+
 
 
