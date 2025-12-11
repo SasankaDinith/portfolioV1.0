@@ -1040,17 +1040,23 @@ body {
 .resume-item h4{
     font-size: 1.7rem;
     font-weight: 500;
-
-
 }
 
 .resume-item .details{
-  margin-top: 3px;
+   
     font-size: 1.6rem;
     color: var(--white-color);
 
+
 }
 
+.resume-item .detailss{
+    margin-top: -20px;
+    font-size: 1.6rem;
+    color: var(--white-color);
+
+
+}
 
 
 .resume-item .company{
