@@ -306,10 +306,10 @@ color: #00ff99;
 }
 .home-details .btn-sci .sci a{
    display: inline-flex;
-   padding: .7rem;
+   padding: .8rem;
    border: .2rem solid var(--main-color);
-   border-radius: 50%;
-   font-size: 2rem;
+   border-radius: 100%;
+   font-size: 2.1rem;
    color: var(--main-color);
    margin: 0 .8rem;
    transition: .5s;
@@ -587,7 +587,7 @@ body {
 
 .vision h4, .mission h4 {
   color: var(--main-color);
-    font-size: 1.4rem;
+    font-size: 1.7rem;
   margin-bottom: 10px;
 }
 
@@ -1560,11 +1560,15 @@ body {
 }
 
 .contact-box .contact-details{
-   
-    padding: 15px 15px ;
+
+    background: var(--bg-color);
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 14px 14px ;
     display: flex;
     align-items: center;
     margin: 1rem 0 ;
+    gap: 1rem;
 }
 
 .contact-box .contact-details:hover{
@@ -1572,7 +1576,7 @@ body {
      border: 1px solid var(--main-color);
      border-radius: 15px;
      transition: 0.6s;
-    box-shadow: 0 0 1rem var(--main-color);
+     box-shadow: 0 0 2rem var(--main-color);
 }
 
 
@@ -1618,6 +1622,8 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
 }
+
+
 
 
 
@@ -1709,6 +1715,12 @@ body {
     padding: 16px;    
   }
 
+  
+  .contact-box2 form {
+    text-align: left;       
+  }
+
+
 
   .contact-box,
   .contact-box2 form {
@@ -1768,7 +1780,7 @@ body {
   }
 
   .contact-box2 form {
-    padding: 2rem;
+    padding: 3rem;
   }
 
   .contact-box h2 {
@@ -1813,6 +1825,20 @@ body {
 }
 
 
+
+
+@media (max-width: 1365px) {
+  .contact-section {
+    grid-template-columns: 2fr; /* stack left and right */
+  }
+
+  .contact-box2 form {
+    text-align: left;         /* optional: better for long labels */
+    padding: 2rem;            /* slightly reduce padding */
+  }
+
+ 
+}
 
 
 
